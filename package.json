@@ -1,0 +1,19 @@
+{
+  "name": "@hotb-ui/npm-test-org-hotb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katepark1009/npm-test-org.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katepark1009/npm-test-org/issues"
+  },
+  "homepage": "https://github.com/katepark1009/npm-test-org#readme"
+}
